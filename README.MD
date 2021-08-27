@@ -1,8 +1,8 @@
 ### Adicione os Items que ele perderá ao entrar na agua.
 
-#### vRP e vRPEX
+**Framework: vRP e vRPEX**
 
-```
+```lua
 Config.Items = {
     {["item"] = "celular"},
     {["item"] = "radio"},
